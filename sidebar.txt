@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ysl:home|Door43 (ysl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ysl|d43-ysl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ysl/archive/master.zip|d43-ysl.zip]]
+
+**Recent Changes**
+{{changes>ns = ysl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ysl|Ethnologue data]]
+
